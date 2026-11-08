@@ -1,4 +1,6 @@
-
+#include <ncurses.h>
+#include <cstdlib>
+#include <ctime>
 
 const int SIZE = 3;
 char board[SIZE][SIZE];
